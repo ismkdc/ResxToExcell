@@ -1,0 +1,12 @@
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\bin\Debug\ResxToExcell.exe.config
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\bin\Debug\ResxToExcell.exe
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\bin\Debug\ResxToExcell.pdb
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\obj\Debug\ResxToExcell.csprojResolveAssemblyReference.cache
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\obj\Debug\ResxToExcell.Properties.Resources.resources
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\obj\Debug\ResxToExcell.csproj.GenerateResource.Cache
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\obj\Debug\ResxToExcell.exe
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\obj\Debug\ResxToExcell.pdb
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\obj\Debug\ResxToExcell.frmMain.resources
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\bin\Debug\ClosedXML.dll
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\ismkdc\documents\visual studio 2015\Projects\ResxToExcell\ResxToExcell\bin\Debug\ClosedXML.xml
